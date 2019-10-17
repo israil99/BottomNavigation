@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">4 СТИХИИ</string>
+    <string name="title_water">Вода</string>
+    <string name="title_fire">Огонь</string>
+    <string name="title_air">Воздух</string>
+    <string name="title_earth">Земля</string>
+</resources>
